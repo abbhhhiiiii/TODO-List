@@ -17,7 +17,7 @@ This is a simple and responsive **ToDo List Web App** built using **ReactJS**. I
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live app]([https://your-live-demo-link.com](https://todo-list-mu-one-57.vercel.app/))
+👉 [Click here to view the live app]([https://your-live-demo-link.com](https://todo-list-mu-one-57.vercel.app/)
 
 ---
 
